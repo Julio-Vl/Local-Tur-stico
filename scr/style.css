@@ -1,0 +1,18 @@
+#page{
+  /* border: solid; */
+  box-sizing: border-box;
+  width: 800px;
+  height: 2993px;
+  margin: auto;
+  margin-top: 80px;
+  
+}
+img{
+  width: 100%;
+  border-radius: 28px;
+  padding:40px 30px 40px 10px;|
+  position: :left;
+}
+img .segunda {
+  border-radius: 60px;
+}
